@@ -14,7 +14,6 @@ env/
 
 # Data files (too large for GitHub)
 data/creditcard.csv
-*.pkl
 
 # Model files (will be generated on deployment)
 models/*.pkl
