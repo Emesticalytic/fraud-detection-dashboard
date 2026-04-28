@@ -200,14 +200,6 @@ Baseline vs Optimized:
 - ✅ **Audit Trail**: Complete logging of all predictions and actions
 - ✅ **Explainable AI**: Feature importance and decision transparency
 
----
-
-## 📞 Contact & Licensing
-
-### **For Enterprise Licensing & Custom Solutions**
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [your-linkedin-profile]
-- 📱 Phone: [your-phone-number]
 
 ### **What's Included**
 - ✅ Complete source code and trained models
